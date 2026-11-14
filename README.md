@@ -1,2 +1,2 @@
-# space-time-capsuleindex.html
+# index.html
 Nasa space apps challenge 2026
